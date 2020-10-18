@@ -1,1 +1,1 @@
-
+This is the same code found in the second project, but with few additions. The code is still blinking the LED five times, but it now displays how many times the LED is blinking on the serial monitor. 
